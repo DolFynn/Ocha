@@ -1,2 +1,2 @@
 ### Ocha
-Application to learn your very vocabulary. 
+Application to learn your very own vocabulary. 
